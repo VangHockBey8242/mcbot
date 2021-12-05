@@ -1,0 +1,3 @@
+﻿send /login TahaTFY2805
+wait 3 seconds
+send /is go
